@@ -23,7 +23,7 @@ if(e.key === "Enter"){
       <div className="header">
         <div className="row1">
           <h1>
-            A room without books is like <br /> body without a soul
+          Book searcher <br />
           </h1>
         </div>
         <div className="row2">
